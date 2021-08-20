@@ -1,5 +1,7 @@
 # huffman_coding
 
+This is the code I wrote through visual studio 2019 on windows.
+
 -Explanation
 This is a code that reads a string from a txt file and compresses it using Huffman coding.
 After checking the probability of each character, it is compressed in a way that maximizes the compression ratio of the one with high probability.
